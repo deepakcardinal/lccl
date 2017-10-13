@@ -104,82 +104,7 @@
     </head>
     <body>
         <!-- header starts here-->
-        <header>
-            <div class="navbar-wrapper">
-                <div class="container-fluid">
-                    <nav class="navbar navbar-fixed-top">
-                        <div class="container">
-                            <div class="navbar-header">
-                                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-                                <a class="navbar-brand" href="/lccl/"><img class="img-responsive" src="images/logo.png" title="lccl 6 of 2016"></a> </div>
-                            <div id="navbar" class="navbar-collapse collapse pull-right">
-                                <div class="social-block pull-right">
-                                    <a href="https://www.youtube.com/lccl" target="_blank"><i class="fa fa-youtube"></i></a>
-                                    <!--<a href="https://plus.google.com/106258580427462311463 " target="_blank"><i class="fa fa-google-plus"></i></a>-->
-                                    <a href="https://www.instagram.com/lcclt20/ " target="_blank"><i class="fa fa-instagram"></i></a>
-                                    <a href="https://twitter.com/lccl" target="_blank"><i class="fa fa-twitter"></i></a> 
-                                    <a href="https://www.facebook.com/lccl/" target="_blank"><i class="fa fa-facebook"></i></a>
-                                </div>
-                                <ul class="nav navbar-nav">
-                                    <li>
-                                        <a class="" href="/lccl/" role="button" aria-haspopup="true" aria-expanded="false">
-                                            Home
-                                        </a>
-                                    </li>
-                                    <li class=" dropdown">
-                                        <a href="#" class="dropdown-toggle active" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                                            Teams <span><i class="fa fa-angle-down"></i></span>
-                                        </a>
-                                        <ul class="dropdown-menu">
-																										<li><a href="cardinals.html">CARDINALS</a></li>
-                                                                                                        <li><a href="cedcoss-super-giants.html">CEDCOSS SUPER GIANTS</a></li>
-                                                                                                        <li><a href="/lccl/team/hcl-hurricanes">HCL HURRICANES</a></li>
-                                                                                                        <li><a href="/lccl/team/pharma-warriors">PHARMA WARRIORS</a></li>
-                                                                                                        <li><a href="/lccl/team/lucknow-smashers">LUCKNOW SMASHERS</a></li>
-                                                                                                        <li><a href="/lccl/team/tricon-titans">TRICON TITANS</a></li>
-                                                                                                        <li><a href="/lccl/team/rising-nuance">RISING NUANCE</a></li>
-                                                                                                        <li><a href="/lccl/team/tcs-strikers">TCS STRIKERS</a></li>
-                                                      
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <a class="" href="/lccl/schedule.html" role="button" aria-haspopup="true" aria-expanded="false">Schedule</a>
-                                    </li>
-                                    <li>
-                                        <a class="" href="/lccl/registration.html" role="button" aria-haspopup="true" aria-expanded="false">Registration</a>
-                                    </li>
-                                   	<li>
-                                        <a class="" href="/lccl/gallery.html" role="button" aria-haspopup="true" aria-expanded="false">Gallery</a>
-                                    </li>
-                                    
-                                    <!--<li><a href="/lccl/home/comingSoon">Registration</a></li>-->
-                                    <li>
-                                        <a class="" href="/lccl/aboutus.html">About Us</a></li>
-
-<!--                                    <li class=" dropdown"><a href="#" class="dropdown-toggle active" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">lccl OVER THE YEARS <span><i class="fa fa-angle-down"></i></span></a>
-    <ul class="dropdown-menu">
-                                                                                                                    <li><a href="/lccl/home/lcclYears">lccl 6</a></li>
-                                                                                                                            <li><a href="/lccl/home/lcclYears">lccl 5</a></li>
-                                                                                                                            <li><a href="/lccl/home/lcclYears">lccl 4</a></li>
-                                                                                                                            <li><a href="/lccl/home/lcclYears">lccl 3</a></li>
-                                                                                                                            <li><a href="/lccl/home/lcclYears">lccl 2</a></li>
-                                                                                                                            <li><a href="/lccl/home/lcclYears">lccl 1</a></li>
-                                              
-    </ul>
-</li>-->
-<!--                                    <li class="btn btn-primary" style="padding: 0px">
-                                        <a style="padding: 0 15px; color: #FFFFFF;"  href="http://www.meraevents.com/event/lccl-semi-final-karnataka-bulldozers-vs-bengal-tigers-and-telugu-warriors-vs-bhojpuri-dabanggs" target="_blank" role="button" aria-haspopup="true" aria-expanded="false">
-                                            BOOK NOW
-                                        </a>
-                                    </li> -->
-					
-                                </ul> 
-                            </div>
-                        </div>
-                    </nav>
-                </div>
-            </div>
-        </header>
+        <?php include "header.html";?>
         <!-- header ends here--> <!-- main starts here-->
 <main class="internal-main  cardinals"> 
     <!-- internal top header background-->
@@ -214,14 +139,13 @@
             </div>
             <!-- team introduction ends here-->
             <!--team header photo starts here-->
-            <div class="row team-pic nomrg-desk">
-                
+            <div class="row team-pic nomrg-desk">      
                 <div class="social-block pull-left"> 
-<!--                    <a href="https://www.youtube.com/" target="_blank"><i class="fa fa-youtube"></i></a> 
+					<!-- <a href="https://www.youtube.com/" target="_blank"><i class="fa fa-youtube"></i></a> 
                     <a href="https://in.linkedin.com/" target="_blank"><i class="fa fa-linkedin"></i></a> -->
-                                                <a href="https://www.facebook.com/Bojpuridabanggs/?fref=ts" target="_blank"><i class="fa fa-facebook"></i></a> 
-                                                    <a href="https://twitter.com/BhojpuriDabangs" target="_blank"><i class="fa fa-twitter"></i></a> 
-                                            </div>
+                    <a href="https://www.facebook.com/Bojpuridabanggs/?fref=ts" target="_blank"><i class="fa fa-facebook"></i></a> 
+                    <a href="https://twitter.com/BhojpuriDabangs" target="_blank"><i class="fa fa-twitter"></i></a> 
+				</div>
                 <div class="team-url">
                     <a href="http://www.cardinals.in" target="_blank">www.cardinals.in</a>
                 </div>
@@ -229,83 +153,74 @@
             <!-- team header photo ends here-->
             <div class="row team_leads">
                 <!--<div class="col-md-12">-->
-                                <!--</div>-->
-                                    <div class="col-xs-12 col-md-8 nopad-desk team_owner col-sm-12">
-                        <div class="team-title">
-                            <div class="team-pic-title"><h3>TEAM OWNER</h3></div>
+                <!--</div>-->
+                <div class="col-xs-12 col-md-8 nopad-desk team_owner col-sm-12">
+					<div class="team-title">
+						<div class="team-pic-title"><h3>TEAM OWNER</h3></div>
+                    </div>
+						<div class="col-sm-3 col-xs-6 col-md-3 player-block col-sm-6  text-center">
+							<figure>
+								<img class="img-responsive"  src="/lccl/images/player.png">
+                                <div class="player-social">
+									<a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a> 
+									<a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a>                     
+                                </div>
+							</figure>
+                            <article>
+                                <h3>Paritosh Srivastava</h3>
+                                <small>Owner</small>
+                            </article>
                         </div>
-                                                    <div class="col-sm-3 col-xs-6 col-md-3 player-block col-sm-6  text-center">
-                                <figure>
-                                                                            <img class="img-responsive"  src="/lccl/images/player.png">
-                                                                                                                    <div class="player-social">
-                                                                                                <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a> 
-                                                                                                    <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a> 
-                                                           
-                                        </div>
-                                                                    </figure>
-                                <article>
-                                    <h3>Paritosh Srivastava</h3>
-                                    <small>Owner</small>
-                                </article>
-                            </div>
-							
-							<div class="col-sm-3 col-xs-6 col-md-3 player-block col-sm-6 text-center">
-                                <figure>
-                                                                            <img class="img-responsive"  src="/lccl/images/player.png">
-																			                                                          <div class="player-social">
-                                                                                                <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a>   
-                                                                                                    <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a> 
-                                                           
-                                        </div>
-                                                                                                            </figure>
-                                <article>
-                                    <h3>Sachin Mishra</h3>
-                                    <small>Coach</small>
-                                </article>
-                            </div>
-                            </div>
-                                        <div class="col-md-2 nopad-desk team_captain col-xs-12 col-sm-12">
+						<div class="col-sm-3 col-xs-6 col-md-3 player-block col-sm-6 text-center">
+                            <figure>
+								<img class="img-responsive"  src="/lccl/images/player.png">
+								<div class="player-social">
+									<a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a>   
+                                    <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a>                     
+                                </div>
+                            </figure>
+                            <article>
+                                <h3>Sachin Mishra</h3>
+                                <small>Coach</small>
+                            </article>
+                        </div>
+                    </div>
+                    <div class="col-md-2 nopad-desk team_captain col-xs-12 col-sm-12">
                         <div class="team-title">
                             <div class="team-pic-title"><h3>MEDIA MANAGER</h3></div>
                         </div>
-                                                    <div class="col-xs-6 col-md-12 player-block text-center">
-                                <figure>
-                                                                                <img class="img-responsive" src="/lccl/images/player.png">
-                                                                                    <div class="player-social">
-                                                                                                <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a>   
-                                                                                                    <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a> 
-                                                       
-                                        </div>
-                                                                    </figure>
-                                <article>
-                                    <h3>
-                                        Manpreet Singh                                    </h3>
-                                   
-                                </article>
-                            </div>
-                                                </div>
-												<div class="col-md-2 nopad-desk team_captain col-xs-12 col-sm-12">
+                        <div class="col-xs-6 col-md-12 player-block text-center">
+							<figure>
+								<img class="img-responsive" src="/lccl/images/player.png">
+								<div class="player-social">
+									<a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a>   
+                                    <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a>               
+                                </div>
+							</figure>
+                            <article>
+                                <h3> Manpreet Singh </h3>  
+                            </article>
+						</div>
+					</div>
+					<div class="col-md-2 nopad-desk team_captain col-xs-12 col-sm-12">
                         <div class="team-title">
                             <div class="team-pic-title"><h3>SCORER</h3></div>
                         </div>
-                                                    <div class="col-xs-6 col-md-12 player-block text-center">
-                                <figure>
-                                                                                <img class="img-responsive" src="/lccl/images/player.png">
-                                                                                    <div class="player-social">
-                                                                                                <a href="https://www.facebook.com/iaaamprk" target="_blank"><i class="fa fa-facebook"></i></a>   
-                                                                                                    <a href="https://twitter.com/iaamprk" target="_blank"><i class="fa fa-twitter"></i></a> 
-                                                       
-                                        </div>
-                                                                    </figure>
-                                <article>
-                                    <h3>
-                                        Prakhar Srivastava                                    </h3>
-                                                                    </article>
-                            </div>
-                                                </div>
+                        <div class="col-xs-6 col-md-12 player-block text-center">
+                            <figure>
+								<img class="img-responsive" src="/lccl/images/player.png">
+                                <div class="player-social">
+									<a href="https://www.facebook.com/iaaamprk" target="_blank"><i class="fa fa-facebook"></i></a>   
+                                    <a href="https://twitter.com/iaamprk" target="_blank"><i class="fa fa-twitter"></i></a> 
                                 </div>
-
-                                            <div>
+							</figure>
+							<article>
+                                <h3>Prakhar Srivastava</h3>
+                            </article>
+                        </div>
+                    </div>
+				</div>
+                <div>
                     <div class="row new-mrg">
                         <!-- team members title starts here-->
                         <div class="team-title">
@@ -538,73 +453,7 @@
 </main>
 <!-- main ends here--> 
 <!-- footer starts here-->
-<footer>
-
-    <!-- bottom footer starts-->
-    <section class="bottom-footer">
-        <div class="row nomrg-desk">
-            <div class="container container-topfooter nopad-desk">
-                <div class="col-md-6 nopad-desk about-LCCL">
-                    <a class="logo" href="/lccl/"><img src="images/logo.png" alt="LCCL logo" title="LCCL Cricket Matches 2016"></a>
-                    <div class="social-block pull-left">
-                                               
-                        <a href="https://twitter.com/LucknowCCL" target="_blank"><i class="fa fa-twitter"></i></a> 
-                        <a href="https://www.facebook.com/LucknowCCL/" target="_blank"><i class="fa fa-facebook"></i></a>
-                    </div>
-                    <article>
-                        <p>
-                            Lucknow Corporate Cricket League has been started in 2016 to provide a friendly yet competitive exposure to those who are passionate about cricket. This tournament provides an opportunity to corporate employees to show their talent in a competitive environment.<br></br>
-							<b>Contact Details</b><br>
-							Email: <a href="mailto:lccl@gmx.com" target="_top">lccl@gmx.com</a><br>
-							Phone: 9984575784, 9956400840
-							<br></br>
-							<b>Live Commentary</b><br>
-							<a href="https://cricclubs.com/lccl" target="_blank">CricClubs</a>
-                        </p>
-                    </article>
-                </div>
-                <div class="col-md-3 col-xs-6 col-md-offset-1 footer-nav">
-                    <h2>TEAMS</h2>
-                    <ul>
-                                                        <li><i class="fa fa-chevron-right"></i><a href="/lccl/team/bengal-tigers">CARDINALS</a></li>
-                                                                <li><i class="fa fa-chevron-right"></i><a href="/lccl/team/bhojpuri-dabanggs">CEDCOSS SUPER GIANTS</a></li>
-                                                                <li><i class="fa fa-chevron-right"></i><a href="/lccl/team/chennai-rhinos">HCL HURRICANES</a></li>
-                                                                <li><i class="fa fa-chevron-right"></i><a href="/lccl/team/karnataka-bulldozers">PHARMA WARRIORS</a></li>
-                                                                <li><i class="fa fa-chevron-right"></i><a href="/lccl/team/kerala-strikers">LUCKNOW SMASHERS</a></li>
-                                                                <li><i class="fa fa-chevron-right"></i><a href="/lccl/team/mumbai-heroes">TRICON TITANS</a></li>
-                                                                <li><i class="fa fa-chevron-right"></i><a href="/lccl/team/punjab-de-sher">RISING NUANCE</a></li>
-                                                                <li><i class="fa fa-chevron-right"></i><a href="/lccl/team/telugu-warriors">TCS STRIKERS</a></li>
-                                  </ul>
-                </div>
-                <div class="col-md-2 col-xs-6 footer-nav">
-                    <h2>QUICK LINKS</h2>
-                    <ul>
-                        
-                        <li><i class="fa fa-chevron-right"></i><a href="/lccl/schedule.html">Schedule</a></li>
-                        
-                        <li><i class="fa fa-chevron-right"></i><a href="/lccl/photo-gallery">Photos </a></li>
-                        
-                        <li><i class="fa fa-chevron-right"></i><a href="/lccl/aboutus.html">About us</a></li>
-                        
-                        <li><i class="fa fa-chevron-right"></i><a href="/lccl/registration.html">Registration</a></li>
-                        
-                        
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <article class="rights container text-center">
-            <p>All Rights Reserved @ LCCL  2017</p>
-        </article>
-    </section>
-    <!-- bottom footer ends here-->
-    <!-- script files including here--> 
-    <script src="js/jquery.transit.min.js"></script>
-    <script src="js/main.js"></script>
-    <script src="js/EmployeeView.js"></script>
-    <script src="js/isotope.pkgd.js"></script>
-
-
-</footer> ends here-->
+<?php include "footer.html";?>
+<!--footer ends here-->
 </body>
 </html>
