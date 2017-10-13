@@ -227,16 +227,15 @@
                             <div class="team-pic-title"><h3>TEAM MEMBERS</h3></div>
                         </div>
                         <!-- team members title ends here-->
-                                                                 <div class="player-block text-center">
-                                    <figure>
-                                                                                        <img class="img-responsive" src="/lccl/images/player.png">
-                                                                                            <div class="player-social">
-                                                                                                        <a href="https://www.facebook.com/RaviKissanShukla" target="_blank"><i class="fa fa-facebook"></i></a> 
-                                                                                                            <a href="https://twitter.com/ravikishann" target="_blank"><i class="fa fa-twitter"></i></a> 
-                                                           
-                                            </div>
-                                                                            </figure>
-                                    <article>
+                        <div class="player-block text-center">
+							<figure>
+								<img class="img-responsive" src="/lccl/images/player.png">
+                                <div class="player-social">
+									<a href="https://www.facebook.com/RaviKissanShukla" target="_blank"><i class="fa fa-facebook"></i></a> 
+                                    <a href="https://twitter.com/ravikishann" target="_blank"><i class="fa fa-twitter"></i></a> 
+                                </div>
+                            </figure>
+                            <article>
                                         <h3> PARITOSH SRIVASTAVA</h3>
                                         <small>Allrounder</small>
                                     </article>

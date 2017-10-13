@@ -261,7 +261,7 @@
 									</a> 
 								</div>
                                 <div class="col-md-3 col-xs-3 col-sm-3 logos-box">
-									<h6>TCS STRIKERS</h6>
+									<h6>LUCKNOW STRIKERS</h6>
 									<a class="logos-link mumbai-heroes" href="/lccl/team/mumbai-heroes">
 										<img class="img-responsive" src="images/nologo.jpg" alt="TRICON TITANS" title="TRICON TITANS">
 									</a> 
@@ -367,7 +367,7 @@
 													<div class="caption text-center">
 														<h4>SHASHWAT SHARMA</h4>
 														<a href="/lccl/team/bengal-tigers"> 
-															<p>TCS STRIKERS</p>
+															<p>LUCKNOW STRIKERS</p>
 														</a>
 													</div>
 												</div>
