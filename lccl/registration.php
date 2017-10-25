@@ -96,7 +96,11 @@
         <!-- header starts here-->
 		<?php include "header.html";?>
         <!-- header ends here--> <!-- main starts here--><main class="internal-main">     <!-- internal top header background-->    
-		<div class="bg-header-internal">    </div>      <!-- internal top header background ends here-->     <!-- internal page main content starts here-->    <section class="internal-main-content">        <!-- brudcrumb starts here-->        <div class="container brud-cr">            <ul class="brudcrumb">                <li><a href="/lccl/">Home</a></li>                <li><a>About Us</a></li>            </ul>        </div>        <!-- brud crumb ends here-->        <!-- main content starts here-->        <div class="main-content container nopad-desk" style="height:400px">            <div class="row">                <div class="col-md-12">                    
+		<div class="bg-header-internal">    </div>      
+		<!-- internal top header background ends here-->     
+		<!-- internal page main content starts here-->    
+		<section class="internal-main-content">        
+		<!-- brudcrumb starts here-->        <div class="container brud-cr">            <ul class="brudcrumb">                <li><a href="/lccl/">Home</a></li>                <li><a>Registraion</a></li>            </ul>        </div>        <!-- brud crumb ends here-->        <!-- main content starts here-->        <div class="main-content container nopad-desk" style="height:400px">            <div class="row">                <div class="col-md-12">                    
 		<article>                        <h1>Registration Details </h1>                        
 		<p>
 		For the registration, teams need to submit the list of 15 players in the prescribed format along with the

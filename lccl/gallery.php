@@ -53,7 +53,7 @@
         <div class="container brud-cr">
             <ul class="brudcrumb">
                 <li><a href="/lccl/">Home</a></li>
-                <li><a>Schedule</a></li>
+                <li><a>Gallery</a></li>
             </ul>
         </div>
         <!-- brud crumb ends here-->

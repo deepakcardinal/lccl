@@ -1785,8 +1785,20 @@ ul.registration-ul li{
     float: left;
     margin: 10px 24px;
 }
+.container {position:relative;}
+.bt-sponsers {    position: absolute;
+    z-index: 99;
+    left: 148px;
+    top: 37px;
+    height: 48px;
+    text-align: right;}
+	
+.bt-sponsers img {height:100%;     border-radius: 5px;}
 
-
-
+	.bt-sponsers  .sp{    font-size: 11px;
+    font-weight: bold;
+    padding-right: 3px;
+    display: block;
+    padding-bottom: 2px;}
 
 
