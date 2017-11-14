@@ -13,9 +13,9 @@
 		<link rel="stylesheet" href="css/font-awesome.min.css">
 		<link rel="stylesheet" href="css/responsive.css">
 		<link rel="stylesheet" href="css/animatedcss.css">
-        <title>CARDINALS  | CARDINALS lccl Team</title>
+        <title>CARDINALS  | CARDINALS LCCL Team</title>
         <meta name="description" content="The Cardinals is a Cricket Franchise of Lucknow Lucknow Corporate Cricket League. The Franchise is owned by Mr. Pankaj Dwivedi.">
-        <meta name="keywords" content="CARDINALS, lccl, CARDINALS lccl team">
+        <meta name="keywords" content="CARDINALS, LCCL, CARDINALS LCCL team">
         <style type="text/css">
             .fancybox-custom .fancybox-skin {
                 box-shadow: 0 0 50px #222;
@@ -118,7 +118,7 @@
             <ul class="brudcrumb">
                 <li><a href="/lccl/">Home</a></li>
                 <li><a>Teams</a></li>
-                <li><a>CARDINALS</a></li>
+                <li><a>Cardinals</a></li>
             </ul>
         </div>
         <!-- brud crumb ends here-->
@@ -128,10 +128,10 @@
             <!-- introduction starts here-->
             <div class="row team-intro nomrg-desk">
                 <div class="col-md-4 col-xs-12 col-sm-3 nopad-desk">
-                    <figure class="logo bhojpuri-dabanggs">
-                        <img class="img-responsive" src="/lccl/uploads/teamlogos/teamlogo-TB2cE89awRCerToG4HP7.jpg">
+                    <figure class="logo cardinals">
+                        <img class="img-responsive" src="/lccl/images/cardinalslogo.jpg">
                     </figure>
-                    <h2>CARDINALS</h2> 
+                    <h1>CARDINALS</h1> 
                 </div>
                 <div class="col-md-8">
                     <article><p><font size="4">The Cardinals is a Cricket Franchise of Lucknow Corporate Cricket League. The Franchise is owned by Mr. Paritosh Srivastava. Cardinals are winners of inaugural season of LCCL and were the runner up in the Season 2.</font></p></article>
@@ -139,13 +139,14 @@
             </div>
             <!-- team introduction ends here-->
             <!--team header photo starts here-->
-            <div class="row team-pic nomrg-desk">      
+            <div class="row team-pic nomrg-desk">
+                
                 <div class="social-block pull-left"> 
-					<!-- <a href="https://www.youtube.com/" target="_blank"><i class="fa fa-youtube"></i></a> 
+<!--                    <a href="https://www.youtube.com/" target="_blank"><i class="fa fa-youtube"></i></a> 
                     <a href="https://in.linkedin.com/" target="_blank"><i class="fa fa-linkedin"></i></a> -->
-                    <a href="https://www.facebook.com/Bojpuridabanggs/?fref=ts" target="_blank"><i class="fa fa-facebook"></i></a> 
-                    <a href="https://twitter.com/BhojpuriDabangs" target="_blank"><i class="fa fa-twitter"></i></a> 
-				</div>
+                                                <a href="https://www.facebook.com/Bojpuridabanggs/?fref=ts" target="_blank"><i class="fa fa-facebook"></i></a> 
+                                                    <a href="https://twitter.com/BhojpuriDabangs" target="_blank"><i class="fa fa-twitter"></i></a> 
+                                            </div>
                 <div class="team-url">
                     <a href="http://www.cardinals.in" target="_blank">www.cardinals.in</a>
                 </div>
@@ -153,73 +154,79 @@
             <!-- team header photo ends here-->
             <div class="row team_leads">
                 <!--<div class="col-md-12">-->
-                <!--</div>-->
-                <div class="col-xs-12 col-md-8 nopad-desk team_owner col-sm-12">
-					<div class="team-title">
-						<div class="team-pic-title"><h3>TEAM OWNER</h3></div>
-                    </div>
-						<div class="col-sm-3 col-xs-6 col-md-3 player-block col-sm-6  text-center">
-							<figure>
-								<img class="img-responsive"  src="/lccl/images/player.png">
-                                <div class="player-social">
-									<a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a> 
-									<a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a>                     
-                                </div>
-							</figure>
-                            <article>
-                                <h3>Paritosh Srivastava</h3>
-                                <small>Owner</small>
-                            </article>
+                                <!--</div>-->
+                      <div class="col-xs-12 col-md-8 nopad-desk team_owner col-sm-12">
+                        <div class="team-title">
+                            <div class="team-pic-title"><h3>TEAM OWNER</h3></div>
                         </div>
-						<div class="col-sm-3 col-xs-6 col-md-3 player-block col-sm-6 text-center">
-                            <figure>
-								<img class="img-responsive"  src="/lccl/images/player.png">
-								<div class="player-social">
-									<a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a>   
-                                    <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a>                     
-                                </div>
-                            </figure>
-                            <article>
-                                <h3>Sachin Mishra</h3>
-                                <small>Coach</small>
-                            </article>
-                        </div>
-                    </div>
+                         <div class="col-sm-3 col-xs-6 col-md-3 player-block col-sm-6  text-center">
+                                <figure>
+                                  <img class="img-responsive"  src="/lccl/images/cardinals/paritosh1.jpg">
+                                    <div class="player-social">
+                                      <a href="https://www.facebook.com/paritosh.srivastava.37" target="_blank"><i class="fa fa-facebook"></i></a> 
+                                      <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a> 
+									</div>
+								  </img>
+								</figure>
+                                <article>
+                                    <h3>Paritosh Srivastava</h3>
+                                    <small>Owner</small>
+                                </article>
+                            </div>
+							
+							<div class="col-sm-3 col-xs-6 col-md-3 player-block col-sm-6 text-center">
+                                <figure>
+                                  <img class="img-responsive"  src="/lccl/images/cardinals/sachin.jpg">
+									<div class="player-social">
+                                      <a href="https://www.facebook.com/sachin.mishra.338863" target="_blank"><i class="fa fa-facebook"></i></a>   
+                                      <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a> 
+                                    </div>                   
+                                  </img>
+                                </figure>
+                                <article>
+                                    <h3>Sachin Mishra</h3>
+                                    <small>Coach</small>
+                                </article>
+                            </div>
+                      </div>
                     <div class="col-md-2 nopad-desk team_captain col-xs-12 col-sm-12">
                         <div class="team-title">
                             <div class="team-pic-title"><h3>MEDIA MANAGER</h3></div>
                         </div>
-                        <div class="col-xs-6 col-md-12 player-block text-center">
-							<figure>
-								<img class="img-responsive" src="/lccl/images/player.png">
-								<div class="player-social">
-									<a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a>   
-                                    <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a>               
-                                </div>
-							</figure>
-                            <article>
-                                <h3> Manpreet Singh </h3>  
-                            </article>
-						</div>
-					</div>
+                            <div class="col-xs-6 col-md-12 player-block text-center">
+                                <figure>
+                                  <img class="img-responsive" src="/lccl/images/cardinals/manpreet.jpg">
+                                    <div class="player-social">
+                                      <a href="https://www.facebook.com/manpreetsinghmca" target="_blank"><i class="fa fa-facebook"></i></a>   
+                                      <a href="https://twitter.com/singh_manpreet" target="_blank"><i class="fa fa-twitter"></i></a> 
+                                    </div>
+									</img>
+                                </figure>
+                                <article>
+                                    <h3>Manpreet Singh</h3>
+                                </article>
+                            </div>
+                    </div>
 					<div class="col-md-2 nopad-desk team_captain col-xs-12 col-sm-12">
                         <div class="team-title">
                             <div class="team-pic-title"><h3>SCORER</h3></div>
                         </div>
-                        <div class="col-xs-6 col-md-12 player-block text-center">
-                            <figure>
-								<img class="img-responsive" src="/lccl/images/player.png">
-                                <div class="player-social">
-									<a href="https://www.facebook.com/iaaamprk" target="_blank"><i class="fa fa-facebook"></i></a>   
-                                    <a href="https://twitter.com/iaamprk" target="_blank"><i class="fa fa-twitter"></i></a> 
-                                </div>
-							</figure>
-							<article>
-                                <h3>Prakhar Srivastava</h3>
-                            </article>
-                        </div>
+                            <div class="col-xs-6 col-md-12 player-block text-center">
+                                <figure>
+                                  <img class="img-responsive" src="/lccl/images/cardinals/sheetanshu1.jpg">
+                                    <div class="player-social">
+                                      <a href="https://www.facebook.com/isheetanshu" target="_blank"><i class="fa fa-facebook"></i></a>   
+                                      <a href="https://twitter.com/isheetanshu" target="_blank"><i class="fa fa-twitter"></i></a> 
+                                    </div>
+									</img>
+                                </figure>
+                                <article>
+                                    <h3>Sheetanshu Tripathi</h3>
+                                </article>
+                            </div>
                     </div>
-				</div>
+            </div>
+
                 <div>
                     <div class="row new-mrg">
                         <!-- team members title starts here-->
@@ -227,219 +234,236 @@
                             <div class="team-pic-title"><h3>TEAM MEMBERS</h3></div>
                         </div>
                         <!-- team members title ends here-->
-                        <div class="player-block text-center">
-							<figure>
-								<img class="img-responsive" src="/lccl/images/player.png">
-                                <div class="player-social">
-									<a href="https://www.facebook.com/RaviKissanShukla" target="_blank"><i class="fa fa-facebook"></i></a> 
-                                    <a href="https://twitter.com/ravikishann" target="_blank"><i class="fa fa-twitter"></i></a> 
-                                </div>
-                            </figure>
-                            <article>
-                                        <h3> PARITOSH SRIVASTAVA</h3>
-                                        <small>Allrounder</small>
+						<!-- team members name starts here-->
+                                <div class="player-block text-center">
+                                    <figure>
+                                     <img class="img-responsive" src="/lccl/images/cardinals/paritosh.jpg">
+                                                                                    
+									<div class="player-social">
+                                       <a href="https://www.facebook.com/paritosh.srivastava.37" target="_blank"><i class="fa fa-facebook"></i></a>   
+                                       <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a>
+                                                           
+                                    </div>
+									</figure>
+                                    <article>
+                                        <h3>PARITOSH SRIVASTAVA</h3>
+                                        <small>All Rounder</small>
                                     </article>
                                 </div>
-								
 								<div class="player-block text-center">
                                     <figure>
-                                                                                        <img class="img-responsive" src="/lccl/images/player.png">
-                                                                                            <div class="player-social">
-                                                                                                        <a href="https://www.facebook.com/RaviKissanShukla" target="_blank"><i class="fa fa-facebook"></i></a> 
-                                                                                                            <a href="https://twitter.com/ravikishann" target="_blank"><i class="fa fa-twitter"></i></a> 
+                                     <img class="img-responsive" src="/lccl/images/cardinals/karthik.jpg">
+                                                                                    
+									<div class="player-social">
+                                       <a href="https://www.facebook.com/karthik.rao15" target="_blank"><i class="fa fa-facebook"></i></a>   
+                                       <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a>
                                                            
-                                            </div>
-                                                                            </figure>
+                                    </div>
+									</figure>
                                     <article>
                                         <h3>KARTHIK RAO</h3>
                                         <small>Batsman/WK</small>
                                     </article>
                                 </div>
-								<div class="player-block text-center">
+                                <div class="player-block text-center">
                                     <figure>
-                                                                                        <img class="img-responsive" src="/lccl/images/player.png">
-                                                                                            <div class="player-social">
-                                                                                                        <a href="https://www.facebook.com/RaviKissanShukla" target="_blank"><i class="fa fa-facebook"></i></a> 
-                                                                                                            <a href="https://twitter.com/ravikishann" target="_blank"><i class="fa fa-twitter"></i></a> 
+                                     <img class="img-responsive" src="/lccl/images/cardinals/anuj.jpg">
+                                                                                    
+									<div class="player-social">
+                                       <a href="https://www.facebook.com/anujpt" target="_blank"><i class="fa fa-facebook"></i></a>   
+                                       <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a>
                                                            
-                                            </div>
-                                                                            </figure>
+                                    </div>
+									</figure>
                                     <article>
-                                        <h3> ANUJ TIWARI</h3>
+                                        <h3>ANUJ TIWARI</h3>
                                         <small>Batsman</small>
                                     </article>
                                 </div>
-                                                                <div class="player-block text-center">
+                                <div class="player-block text-center">
                                     <figure>
-                                                                                        <img class="img-responsive" src="/lccl/images/player.png">
+                                     <img class="img-responsive" src="/lccl/images/cardinals/aditya.jpg">
                                                                                     
-																					<div class="player-social">
-                                                                                                <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a>   
-                                                                                                    <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a> 
+									<div class="player-social">
+                                       <a href="https://www.facebook.com/yadav.johncena" target="_blank"><i class="fa fa-facebook"></i></a>   
+                                       <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a>
                                                            
-                                        </div></figure>
+                                    </div>
+									</figure>
                                     <article>
-                                        <h3> ADITYA SINGH</h3>
+                                        <h3>ADITYA SINGH</h3>
                                         <small>All Rounder</small>
                                     </article>
                                 </div>
-                                                                <div class="player-block text-center">
+                                <div class="player-block text-center">
                                     <figure>
-                                                                                        <img class="img-responsive" src="/lccl/images/player.png">
+                                     <img class="img-responsive" src="/lccl/images/cardinals/sarvesh.jpg">
                                                                                     
-																					<div class="player-social">
-                                                                                                <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a>   
-                                                                                                    <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a> 
+									<div class="player-social">
+                                       <a href="https://www.facebook.com/sarvesh.verma.7374480" target="_blank"><i class="fa fa-facebook"></i></a>   
+                                       <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a>
                                                            
-                                        </div></figure>
+                                    </div>
+									</figure>
                                     <article>
-                                        <h3> SARVESH KUMAR</h3>
+                                        <h3>SARVESH VERMA</h3>
                                         <small>All Rounder</small>
                                     </article>
                                 </div>
-                                                                <div class="player-block text-center">
+                                <div class="player-block text-center">
                                     <figure>
-                                                                                        <img class="img-responsive" src="/lccl/images/player.png">
+                                     <img class="img-responsive" src="/lccl/images/cardinals/shivam.jpg">
                                                                                     
-																					<div class="player-social">
-                                                                                                <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a>   
-                                                                                                    <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a> 
+									<div class="player-social">
+                                       <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a>   
+                                       <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a>
                                                            
-                                        </div></figure>
+                                    </div>
+									</figure>
                                     <article>
-                                        <h3> SHIVAM SRIVASTAVA</h3>
+                                        <h3>SHIVAM SRIVASTAVA</h3>
                                         <small>Batsman</small>
                                     </article>
                                 </div>
-                                                                <div class="player-block text-center">
+                                <div class="player-block text-center">
                                     <figure>
-                                                                                        <img class="img-responsive" src="/lccl/images/player.png">
-                                                                                            <div class="player-social">
-                                                                                                        <a href="https://www.facebook.com/Vikrant-Singh-162700663885801/" target="_blank"><i class="fa fa-facebook"></i></a> 
-                                                       
-                                            </div>
-                                                                            </figure>
+                                     <img class="img-responsive" src="/lccl/images/cardinals/amir.jpg">
+                                                                                    
+									<div class="player-social">
+                                       <a href="https://www.facebook.com/mohd.a.meraj" target="_blank"><i class="fa fa-facebook"></i></a>   
+                                       <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a>
+                                                           
+                                    </div>
+									</figure>
                                     <article>
-                                        <h3> MOHD. AMIR</h3>
+                                        <h3> MOHD. AMIR MERAJ</h3>
                                         <small>All Rounder</small>
                                     </article>
                                 </div>
-                                                                <div class="player-block text-center">
+                                <div class="player-block text-center">
                                     <figure>
-                                                                                        <img class="img-responsive" src="/lccl/images/player.png">
+                                     <img class="img-responsive" src="/lccl/images/cardinals/sameer.jpg">
                                                                                     
-																					<div class="player-social">
-                                                                                                <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a>   
-                                                                                                    <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a> 
+									<div class="player-social">
+                                       <a href="https://www.facebook.com/profile.php?id=100006514897560" target="_blank"><i class="fa fa-facebook"></i></a>   
+                                       <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a>
                                                            
-                                        </div></figure>
+                                    </div>
+									</figure>
                                     <article>
                                         <h3> SAMEER DIXIT</h3>
-                                        <small>All Rounder</small>
+                                        <small>ALL Rounder</small>
                                     </article>
                                 </div>
-                                                                <div class="player-block text-center">
+                                <div class="player-block text-center">
                                     <figure>
-                                                                                        <img class="img-responsive" src="/lccl/images/player.png">
+                                     <img class="img-responsive" src="/lccl/images/cardinals/abhishek.jpg">
                                                                                     
-																					<div class="player-social">
-                                                                                                <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a>   
-                                                                                                    <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a> 
+									<div class="player-social">
+                                       <a href="https://www.facebook.com/abhishek.navaab" target="_blank"><i class="fa fa-facebook"></i></a>   
+                                       <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a>
                                                            
-                                        </div></figure>
+                                    </div>
+									</figure>
                                     <article>
                                         <h3> ABHISHEK SRIVASTAVA</h3>
                                         <small>Bowler</small>
                                     </article>
                                 </div>
-                                                                <div class="player-block text-center">
+                                <div class="player-block text-center">
                                     <figure>
-                                                                                        <img class="img-responsive" src="/lccl/images/player.png">
+                                     <img class="img-responsive" src="/lccl/images/cardinals/shohit.jpg">
                                                                                     
-																					<div class="player-social">
-                                                                                                <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a>   
-                                                                                                    <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a> 
+									<div class="player-social">
+                                       <a href="https://www.facebook.com/profile.php?id=100005647269572" target="_blank"><i class="fa fa-facebook"></i></a>   
+                                       <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a>
                                                            
-                                        </div></figure>
+                                    </div>
+									</figure>
                                     <article>
                                         <h3> SHOHIT KUMAR</h3>
                                         <small>Bowler</small>
                                     </article>
                                 </div>
-                                                                <div class="player-block text-center">
+                                <div class="player-block text-center">
                                     <figure>
-                                                                                        <img class="img-responsive" src="/lccl/images/player.png">
+                                     <img class="img-responsive" src="/lccl/images/cardinals/sunil.jpg">
                                                                                     
-																					<div class="player-social">
-                                                                                                <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a>   
-                                                                                                    <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a> 
+									<div class="player-social">
+                                       <a href="https://www.facebook.com/sunildwi1990" target="_blank"><i class="fa fa-facebook"></i></a>   
+                                       <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a>
                                                            
-                                        </div></figure>
+                                    </div>
+									</figure>
                                     <article>
                                         <h3> SUNIL DWIVEDI</h3>
                                         <small>All Rounder</small>
                                     </article>
                                 </div>
-                                                                <div class="player-block text-center">
+                                <div class="player-block text-center">
                                     <figure>
-                                                                                        <img class="img-responsive" src="/lccl/images/player.png">
+                                     <img class="img-responsive" src="/lccl/images/cardinals/prashant.jpg">
                                                                                     
-																					<div class="player-social">
-                                                                                                <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a>   
-                                                                                                    <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a> 
+									<div class="player-social">
+                                       <a href="https://www.facebook.com/PrashantWW" target="_blank"><i class="fa fa-facebook"></i></a>   
+                                       <a href="https://twitter.com/prashantsinghw" target="_blank"><i class="fa fa-twitter"></i></a> 
                                                            
-                                        </div></figure>
+                                    </div>
+									</figure>
                                     <article>
                                         <h3> PRASHANT SINGH</h3>
-                                        <small>Batsman</small>
+                                        <small> Batsman</small>
                                     </article>
                                 </div>
-                                                                <div class="player-block text-center">
+                                <div class="player-block text-center">
                                     <figure>
-                                                                                        <img class="img-responsive" src="/lccl/images/player.png">
+                                     <img class="img-responsive" src="/lccl/images/cardinals/durgendra.jpg">
                                                                                     
-																					<div class="player-social">
-                                                                                                <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a>   
-                                                                                                    <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a> 
+									<div class="player-social">
+                                       <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a>   
+                                       <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a> 
                                                            
-                                        </div></figure>
+                                    </div>
+									</figure>
                                     <article>
                                         <h3> DURGENDRA GAUTAM</h3>
-                                        <small>All Rounder</small>
+                                        <small> All Rounder</small>
                                     </article>
                                 </div>
-                                                                <div class="player-block text-center">
+								<div class="player-block text-center">
                                     <figure>
-                                                                                        <img class="img-responsive" src="/lccl/images/player.png">
-                                                                                    
-																					<div class="player-social">
-                                                                                                <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a>   
-                                                                                                    <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a> 
+                                    <img class="img-responsive" src="/lccl/images//cardinals/deepak.jpg">
+                                    <div class="player-social">
+                                        <a href="https://www.facebook.com/deepak.dogra.144" target="_blank"><i class="fa fa-facebook"></i></a>   
+                                        <a href="https://twitter.com/ddogra" target="_blank"><i class="fa fa-twitter"></i></a> 
                                                            
-                                        </div></figure>
+                                    </div>
+									</figure>
                                     <article>
                                         <h3> DEEPAK DOGRA</h3>
                                         <small>Bowler</small>
                                     </article>
                                 </div>
-                                                                <div class="player-block text-center">
+                                <div class="player-block text-center">
                                     <figure>
-                                                                                        <img class="img-responsive" src="/lccl/images/player.png">
+                                     <img class="img-responsive" src="/lccl/images/cardinals/sheetanshu.jpg">
                                                                                     
-																					<div class="player-social">
-                                                                                                <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a>   
-                                                                                                    <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a> 
+									<div class="player-social">
+                                       <a href="https://www.facebook.com/isheetanshu" target="_blank"><i class="fa fa-facebook"></i></a>   
+                                       <a href="https://twitter.com/isheetanshu" target="_blank"><i class="fa fa-twitter"></i></a> 
                                                            
-                                        </div></figure>
+                                    </div>
+									</figure>
                                     <article>
                                         <h3> SHEETANSHU TRIPATHI</h3>
                                         <small> Batsman</small>
                                     </article>
                                 </div>
+								<!-- team members name ends here-->
                                                                 
                                                                 
 
-                                                    </div>
+                    </div>
                 </div>
                                         <!-- team members players starts here-->
             <div class="row teammembers-pic"></div>

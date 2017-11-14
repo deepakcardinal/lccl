@@ -280,7 +280,7 @@ main {
 /********************************/
 /*       Slides backgrounds     */
 /********************************/
-.fade-carousel .slides .slide-1, .fade-carousel .slides .slide-2, .fade-carousel .slides .slide-3 , .fade-carousel .slides .slide-4, .fade-carousel .slides .slide-5, .fade-carousel .slides .slide-6    {
+.fade-carousel .slides .slide-1, .fade-carousel .slides .slide-2, .fade-carousel .slides .slide-3 , .fade-carousel .slides .slide-4, .fade-carousel .slides .slide-5, .fade-carousel .slides .slide-6, .fade-carousel .slides .slide-7 , .fade-carousel .slides .slide-8 , .fade-carousel .slides .slide-9 , .fade-carousel .slides .slide-10 , .fade-carousel .slides .slide-11   {
     height: 100vh;
     background-size: cover;
     background-position: center center;
@@ -307,6 +307,21 @@ main {
 }
 .fade-carousel .slides .slide-6 {
     background-image: url(../images/slider06.jpg);
+}
+.fade-carousel .slides .slide-7 {
+    background-image: url(../images/slider07.jpg);
+}
+.fade-carousel .slides .slide-8 {
+    background-image: url(../images/slider08.jpg);
+}
+.fade-carousel .slides .slide-9 {
+    background-image: url(../images/slider09.jpg);
+}
+.fade-carousel .slides .slide-10 {
+    background-image: url(../images/slider10.jpg);
+}
+.fade-carousel .slides .slide-11 {
+    background-image: url(../images/slider11.jpg);
 }
 /********************************/
 /*          Media Queries       */
@@ -1802,3 +1817,7 @@ ul.registration-ul li{
     padding-bottom: 2px;}
 
 
+.logos-teams img {
+    width: 100%;
+    height: 100%;
+}

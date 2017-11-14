@@ -96,29 +96,41 @@
         <!-- header starts here-->
 		<?php include "header.html";?>
         <!-- header ends here--> <!-- main starts here--><main class="internal-main">     <!-- internal top header background-->    
-		<div class="bg-header-internal">    </div>      
-		<!-- internal top header background ends here-->     
-		<!-- internal page main content starts here-->    
-		<section class="internal-main-content">        
-		<!-- brudcrumb starts here-->        <div class="container brud-cr">            <ul class="brudcrumb">                <li><a href="/lccl/">Home</a></li>                <li><a>Registraion</a></li>            </ul>        </div>        <!-- brud crumb ends here-->        <!-- main content starts here-->        <div class="main-content container nopad-desk" style="height:400px">            <div class="row">                <div class="col-md-12">                    
-		<article>                        <h1>Registration Details </h1>                        
-		<p>
-		For the registration, teams need to submit the list of 15 players in the prescribed format along with the
-entry fee before the last date of fee submission.<br></br>
-<b>Required</b>
-<ul class="registration-ul">
-<li>Entry Fee Rs. 5500</li>
-<li>Team Name (Must Include the Name of the Company)</li>
-<li>Team Logo (Good Quality PNG image)</li>
-<li>Images of the players in Team Jersey.</li>
-<li>Company ID (scanned copies of the all players).</li>
-<li>Dully filled Team Details Form (The Team Details Form will be provided along with this document).</li>
-<br></br>The above details should be emailed to : <a href="mailto:lccl@gmx.com" target="_top">lccl@gmx.com</a>.
-<br></br>For any registration related querry contact Sheetanshu at 9984575784.
-</ul>
-
-		</p></article>
-                </div>            </div>                    </div>        <!-- main content ends here-->    </section>    <!-- internal page main content ends here--></main><!-- main ends here--> 
+		<div class="bg-header-internal">    </div>      <!-- internal top header background ends here-->     <!-- internal page main content starts here-->    <section class="internal-main-content">        <!-- brudcrumb starts here-->        <div class="container brud-cr">            <ul class="brudcrumb">                <li><a href="/lccl/">Home</a></li>                <li><a>Registration</a></li>            </ul>        </div>        <!-- brud crumb ends here-->        <!-- main content starts here-->        
+		<div class="main-content container nopad-desk" style="height:400px">            
+		<div class="row">                
+			<div class="col-md-10">                    
+			<article>
+			<h1>Registration Details </h1>
+			<h3>Registrations for Season 3 are now closed</h3>
+			<p>
+			For the registration, teams need to submit the list of 15 players in the prescribed format along with the
+				entry fee before the last date of fee submission.<br></br>
+				<b>Required</b>
+				<div>
+				<ul class="registration-ul">
+				<li>Entry Fee Rs. 5500</li>
+				<li>Team Name (Must Include the Name of the Company)</li>
+				<li>Team Logo (Good Quality PNG image)</li>
+				<li>Images of the players in Team Jersey.</li>
+				<li>Company ID (scanned copies of the all players).</li>
+				<li>Dully filled Team Details Form (The Team Details Form will be provided along with this document).</li>
+				<br></br>The above details should be emailed to : <a href="mailto:lccl@gmx.com" target="_top">lccl@gmx.com</a>.
+				<br></br>For any registration related querry contact Sheetanshu at 9984575784.
+				</ul>
+				</div>
+			</p></article>
+			 </div>
+			 <div  class="col-md-2" style="margin-top: 124px;margin-left: -187px;">
+				<b>Download</b>
+				<ul class="registration-ul">
+				<li><a href="/lccl/documents/Team_Details_Form.docx" target="_blank">Team Details Form</a></li>
+				<li><a href="/lccl/documents/LCCL_Brochure_V2.pdf" target="_blank">LCCL_Brochure_V2</a></li>
+				</ul>
+			</div>
+		 </div> 
+		 </div>
+		 <!-- main content ends here-->    </section>    <!-- internal page main content ends here--></main><!-- main ends here--> 
 				
 <!-- footer starts here-->
 <?php include "footer.html";?>

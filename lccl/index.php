@@ -194,6 +194,11 @@
 							<li data-target="#bs-carousel" data-slide-to="3"></li>
 							<li data-target="#bs-carousel" data-slide-to="4"></li>
 							<li data-target="#bs-carousel" data-slide-to="5"></li>
+							<li data-target="#bs-carousel" data-slide-to="6"></li>
+							<li data-target="#bs-carousel" data-slide-to="7"></li>
+							<li data-target="#bs-carousel" data-slide-to="8"></li>
+							<li data-target="#bs-carousel" data-slide-to="9"></li>
+							<li data-target="#bs-carousel" data-slide-to="10"></li>
 
 						</ol>
 						<!-- Wrapper for slides -->
@@ -215,7 +220,22 @@
 							</div>	
 							<div class="item slides">
 								<div class="slide-6"></div>
-							</div>					
+							</div>
+							<div class="item slides">
+								<div class="slide-7"></div>
+							</div>
+							<div class="item slides">
+								<div class="slide-8"></div>
+							</div>
+							<div class="item slides">
+								<div class="slide-9"></div>
+							</div>
+							<div class="item slides">
+								<div class="slide-10"></div>
+							</div>
+							<div class="item slides">
+								<div class="slide-11"></div>
+							</div>							
 						</div>
 					</div>
 				</section>
@@ -224,60 +244,86 @@
 				<div class="clear"></div>    
 				<div class="container logos-teams  fadeInUp wow">
 					<div class="row">
-						<div class="col-md-6 logos-boxs">
+						<div class="col-md-12 logos-boxs">
+						<h3>GROUP A</h3>
 							<div class="row">
-								<div class="col-md-3 col-xs-3 col-sm-3 logos-box">
-								<h6>CARDINALS</h6>
-								<a class="logos-link bengal-tigers" href="/lccl/team/bengal-tigers">
-									<img class="img-responsive" src="images/cardinalslogo.png" alt="CARDINALS" title="CARDINALS">
+								<div class="col-md-2 col-xs-2 col-sm-2 logos-box">
+								<h6>11 MUSKETEERS</h6>
+								<a class="logos-link 11-musketeers" href="/lccl/team/11-musketeers">
+									<img class="img-responsive" src="images/11musketeerslogo.jpg" alt="CARDINALS" title="CARDINALS">
 								</a> 
 							</div>
-                            <div class="col-md-3 col-xs-3 col-sm-3 logos-box">
+                            <div class="col-md-2 col-xs-2 col-sm-2 logos-box">
 								<h6>CEDCOSS SUPER GIANTS</h6>
-								<a class="logos-link bhojpuri-dabanggs" href="/lccl/team/bhojpuri-dabanggs">
-									<img class="img-responsive" src="images/nologo.jpg" alt="CEDCOSS SUPER GIANTS" title="CEDCOSS SUPER GIANTS">
+								<a class="logos-link cedcoss-super-giants" href="/lccl/team/cedcoss-super-giants">
+									<img class="img-responsive" src="images/cedcosssupergiantslogo.jpg" alt="CEDCOSS SUPER GIANTS" title="CEDCOSS SUPER GIANTS">
 								</a> 
 							</div>
-                            <div class="col-md-3 col-xs-3 col-sm-3 logos-box">
-								<h6>HCL HURRICANES</h6>
-								<a class="logos-link chennai-rhinos" href="/lccl/team/chennai-rhinos">
-									<img class="img-responsive" src="images/nologo.jpg" alt="HCL HURRICANES" title="HCL HURRICANES">
+                            <div class="col-md-2 col-xs-2 col-sm-2 logos-box">
+								<h6>NPCC NOKIA</h6>
+								<a class="logos-link npcc-nokia" href="/lccl/team/npcc-nokia">
+									<img class="img-responsive" src="images/npccnokialogo.jpg" alt="NPCC NOKIA" title="NPCC NOKIA">
 								</a> 
 							</div>
-                            <div class="col-md-3 col-xs-3 col-sm-3 logos-box">
+                            <div class="col-md-2 col-xs-2 col-sm-2 logos-box">
+								<h6>NV XI</h6>
+								<a class="logos-link nv-xi" href="/lccl/team/nv-xi">
+									<img class="img-responsive" src="images/nvxilogo.jpg" alt="NV XI" title="NV XI">
+								</a> 
+							</div>
+							<div class="col-md-2 col-xs-2 col-sm-2 logos-box">
 								<h6>PHARMA WARRIORS</h6>
-								<a class="logos-link karnataka-bulldozers" href="/lccl/team/karnataka-bulldozers">
-									<img class="img-responsive" src="images/nologo.jpg" alt="PHARMA WARRIORS" title="PHARMA WARRIORS">
+								<a class="logos-link pharma-warriors" href="/lccl/team/pharma-warriors">
+									<img class="img-responsive" src="images/pharmawarrioslogo.jpg" alt="PHARMA WARRIORS" title="PHARMA WARRIORS">
+								</a> 
+							</div>
+							<div class="col-md-2 col-xs-2 col-sm-2 logos-box">
+								<h6>STPL XI</h6>
+								<a class="logos-link stpl-xi" href="/lccl/team/stpl-xi">
+									<img class="img-responsive" src="images/stplxilogo.jpg" alt="STPL XI" title="STPL XI">
 								</a> 
 							</div>
                             </div>
 						</div>
-						<div class="col-md-6 logos-boxs">
-							<div class="row">
-								<div class="col-md-3 col-xs-3 col-sm-3 logos-box">
-									<h6>LUCKNOW SMASHERS</h6>
-									<a class="logos-link kerala-strikers" href="/lccl/team/kerala-strikers">
-										<img class="img-responsive" src="images/nologo.jpg" alt="LUCKNOW SMASHERS" title="LUCKNOW SMASHERS">
+						<div class="col-md-12 logos-boxs" style="margin-top: 30px;">
+						<h3>GROUP B</h3>
+							<div class="row" style= "margin-bottom: 20px;">
+								<div class="col-md-2 col-xs-2 col-sm-2 logos-box">
+									<h6>CARDINALS</h6>
+									<a class="logos-link cardinals" href="/lccl/team/cardinals">
+										<img class="img-responsive" src="images/cardinalslogo.jpg" alt="CARDINALS" title="CARDINALS">
 									</a> 
 								</div>
-                                <div class="col-md-3 col-xs-3 col-sm-3 logos-box">
-									<h6>LUCKNOW STRIKERS</h6>
-									<a class="logos-link mumbai-heroes" href="/lccl/team/mumbai-heroes">
-										<img class="img-responsive" src="images/nologo.jpg" alt="TRICON TITANS" title="TRICON TITANS">
+                                <div class="col-md-2 col-xs-2 col-sm-2 logos-box">
+									<h6>HCL HURRICANES</h6>
+									<a class="logos-link hcl-hurricanes" href="/lccl/team/hcl-hurricanes">
+										<img class="img-responsive" src="images/hclhurricaneslogo.jpg" alt="HCL HURRICANES" title="HCL HURRICANES">
 									</a> 
 								</div>
-                                <div class="col-md-3 col-xs-3 col-sm-3 logos-box">
-									<h6>TRICON TITANS</h6>
-									<a class="logos-link punjab-de-sher" href="/lccl/team/punjab-de-sher">
-										<img class="img-responsive" src="images/nologo.jpg" alt="RISING NUANCE" title="RISING NUANCE">
+                                <div class="col-md-2 col-xs-2 col-sm-2 logos-box">
+									<h6>SL SPIDERS</h6>
+									<a class="logos-link sl-spiders" href="/lccl/team/sl-spiders">
+										<img class="img-responsive" src="images/slspiderslogo.jpg" alt="SL SPIDERS" title="SL SPIDERS">
 									</a> 
 								</div>
-                                <div class="col-md-3 col-xs-3 col-sm-3 logos-box">
-									<h6>RISING NUANCE</h6>
-									<a class="logos-link telugu-warriors" href="/lccl/team/telugu-warriors">
-										<img class="img-responsive" src="images/nologo.jpg" alt="TCS STRIKERS" title="TCS STRIKERS">
+                                <div class="col-md-2 col-xs-2 col-sm-2 logos-box">
+									<h6>TACT SMASHERS</h6>
+									<a class="logos-link tact-smashers" href="/lccl/team/tact-smashers">
+										<img class="img-responsive" src="images/tactsmasherslogo.jpg" alt="TACT SMASHERS" title="TACT SMASHERS">
 									</a> 
-								</div
+								</div>
+								<div class="col-md-2 col-xs-2 col-sm-2 logos-box">
+								<h6>TECHIE YODDHAS</h6>
+								<a class="logos-link techie-yoddhas" href="/lccl/team/techie-yoddhas">
+									<img class="img-responsive" src="images/techieyoddhaslogo.jpg" alt="TECHIE YODDHAS" title="TECHIE YODDHAS">
+								</a> 
+							</div>
+							<div class="col-md-2 col-xs-2 col-sm-2 logos-box">
+								<h6>ULTRATECH XI</h6>
+								<a class="logos-link ultratech-xi" href="/lccl/team/ultratech-xi">
+									<img class="img-responsive" src="images/ultratechxilogo.jpg" alt="ULTRATECH XI" title="ULTRATECH XI">
+								</a> 
+							</div>
 							</div>
 						</div>
 					</div>
@@ -304,10 +350,10 @@
 										<ul class="thumbnails">
 											<li class="col-sm-3 col-xs-6">
 												<div class="fff">
-													<div class="thumbnail"> <a><img src="images/teamUsers-z2VRo5rGF9DsrZzpcxqC.jpg" alt="Image Loading..." style="width:255px; height:300px;"></a> </div>
+													<div class="thumbnail"> <a><img src="images/paritosh-srivastava.jpg" alt="Image Loading..." style="width:255px; height:300px;"></a> </div>
 													<div class="caption text-center">
 														<h4>PARITOSH SRIVASTAVA</h4>
-														<a href="/lccl/team/telugu-warriors"> 
+														<a href="/lccl/team/cardinals"> 
 															<p>CARDINALS</p>
 														</a>
 													</div>
@@ -315,7 +361,7 @@
 											</li>
                                             <li class="col-sm-3 col-xs-6">
 												<div class="fff">
-													<div class="thumbnail"> <a><img src="images/himanshu rauthan.jpg" alt="Image Loading..." style="width:255px; height:300px;"></a> </div>
+													<div class="thumbnail"> <a><img src="images/himanshu-rauthan.jpg" alt="Image Loading..." style="width:255px; height:300px;"></a> </div>
 													<div class="caption text-center">
 														<h4>HIMANSHU RAUTHAN</h4>
 														<a href="/lccl/team/karnataka-bulldozers"> 
@@ -326,7 +372,7 @@
 											</li>
                                             <li class="col-sm-3 col-xs-6">
 												<div class="fff">
-													<div class="thumbnail"> <a><img src="images/teamUsers-IolghvzJHxbVWONnyufm.jpg" alt="Image Loading..." style="width:255px; height:300px;"></a> </div>
+													<div class="thumbnail"> <a><img src="images/pradeep-rai.jpg" alt="Image Loading..." style="width:255px; height:300px;"></a> </div>
 													<div class="caption text-center">
 														<h4>PRADEEP RAI</h4>
 														<a href="/lccl/team/kerala-strikers"> 
@@ -337,7 +383,7 @@
 											</li>
                                             <li class="col-sm-3 col-xs-6">
 												<div class="fff">
-													<div class="thumbnail"> <a><img src="images/teamUsers-4XK3GpFER9DDfkfCsCqR.jpg" alt="Image Loading..." style="width:255px; height:300px;"></a> </div>
+													<div class="thumbnail"> <a><img src="images/atul-pandey.jpg" alt="Image Loading..." style="width:255px; height:300px;"></a> </div>
 													<div class="caption text-center">
 														<h4>ATUL PANDEY</h4>
 														<a href="/lccl/team/punjab-de-sher"> 
@@ -352,44 +398,92 @@
 										<ul class="thumbnails">
                                              <li class="col-sm-3 col-xs-6">
 												<div class="fff">
-													<div class="thumbnail"> <a><img src="images/teamUsers-YEjSRf2T5SetSZG9ZfWr.jpg" alt="Image Loading..." style="width:255px; height:300px;"></a> </div>
+													<div class="thumbnail"> <a><img src="images/aziz-imam.jpg" alt="Image Loading..." style="width:255px; height:300px;"></a> </div>
 													<div class="caption text-center">
-														<h4>SURAJ KUMAR SRIVASTAVA</h4>
+														<h4>AZIZ IMAM</h4>
 														<a href="/lccl/team/bhojpuri-dabanggs"> 
-															<p>LUCKNOW SMASHERS</p>
+															<p>STPL XI</p>
 														</a>
 													</div>
 												</div>
 											</li>
                                             <li class="col-sm-3 col-xs-6">
 												<div class="fff">
-													<div class="thumbnail"> <a><img src="images/teamUsers-g9i91EdOrONjvBXKFaqS.jpg" alt="Image Loading..." style="width:255px; height:300px;"></a> </div>
+													<div class="thumbnail"> <a><img src="images/shashwat-sharma.jpg" alt="Image Loading..." style="width:255px; height:300px;"></a> </div>
 													<div class="caption text-center">
 														<h4>SHASHWAT SHARMA</h4>
 														<a href="/lccl/team/bengal-tigers"> 
-															<p>LUCKNOW STRIKERS</p>
+															<p>TECHIE YODDHAS</p>
 														</a>
 													</div>
 												</div>
 											</li>
                                             <li class="col-sm-3 col-xs-6">
 												<div class="fff">
-													<div class="thumbnail"> <a><img src="images/teamUsers-akyJNwofg14mslulbD2v.jpg" alt="Image Loading..." style="width:255px; height:300px;"></a> </div>
+													<div class="thumbnail"> <a><img src="images/vijendra-pratap-singh.jpg" alt="Image Loading..." style="width:255px; height:300px;"></a> </div>
 													<div class="caption text-center">
 														<h4>VIJENDRA PRATAP SINGH</h4>
 														<a href="/lccl/team/chennai-rhinos"> 
-															<p>TRICON TITANS</p>
+															<p>11 MUSKETEERS</p>
 														</a>
 													</div>
 												</div>
 											</li>
                                             <li class="col-sm-3 col-xs-6">
 												<div class="fff">
-													<div class="thumbnail"> <a><img src="images/teamUsers-xamY5GoF9TSck00qH78t.jpg" alt="Image Loading..." style="width:255px; height:300px;"></a> </div>
+													<div class="thumbnail"> <a><img src="images/bharat-mehta.jpg" alt="Image Loading..." style="width:255px; height:300px;"></a> </div>
 													<div class="caption text-center">
-														<h4>AMIR KHAN</h4>
+														<h4>BHARAT MEHTA</h4>
 														<a href="/lccl/team/mumbai-heroes"> 
-															<p>RISING NUANCE</p>
+															<p>NPCC NOKIA</p>
+														</a>
+													</div>
+												</div>
+											</li>
+                                        </ul>
+									</div>
+									<div class="item">
+										<ul class="thumbnails">
+                                             <li class="col-sm-3 col-xs-6">
+												<div class="fff">
+													<div class="thumbnail"> <a><img src="images/nikhil-kumar.jpg" alt="Image Loading..." style="width:255px; height:300px;"></a> </div>
+													<div class="caption text-center">
+														<h4>NIKHIL KUMAR</h4>
+														<a href="/lccl/team/bhojpuri-dabanggs"> 
+															<p>TACT SMASHERS</p>
+														</a>
+													</div>
+												</div>
+											</li>
+                                            <li class="col-sm-3 col-xs-6">
+												<div class="fff">
+													<div class="thumbnail"> <a><img src="images/manoj-sehgal.jpg" alt="Image Loading..." style="width:255px; height:300px;"></a> </div>
+													<div class="caption text-center">
+														<h4>MANOJ SEHGAL</h4>
+														<a href="/lccl/team/bengal-tigers"> 
+															<p>SL SPIDERS</p>
+														</a>
+													</div>
+												</div>
+											</li>
+                                            <li class="col-sm-3 col-xs-6">
+												<div class="fff">
+													<div class="thumbnail"> <a><img src="images/rakesh-sharma.jpg" alt="Image Loading..." style="width:255px; height:300px;"></a> </div>
+													<div class="caption text-center">
+														<h4>RAKESH SHARMA</h4>
+														<a href="/lccl/team/chennai-rhinos"> 
+															<p>NV XI</p>
+														</a>
+													</div>
+												</div>
+											</li>
+                                            <li class="col-sm-3 col-xs-6">
+												<div class="fff">
+													<div class="thumbnail"> <a><img src="images/sachin-tyagi.jpg" alt="Image Loading..." style="width:255px; height:300px;"></a> </div>
+													<div class="caption text-center">
+														<h4>SACHIN TYAGI</h4>
+														<a href="/lccl/team/mumbai-heroes"> 
+															<p>ULTRATECH XI</p>
 														</a>
 													</div>
 												</div>

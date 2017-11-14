@@ -125,8 +125,7 @@
                         <div class="schedule-block">
                             <div class="schedule-header">
                                 <p>23 January 2016 , Saturday   </p>
-                                <p>Venue : JMP Lucknow
-</p>
+                                <p>Venue : JMP Lucknow</p>
                             </div>
                             <div class="schedule-body row nomrg-desk">
                                                             <!-- first match schedule starts here-->
@@ -176,7 +175,7 @@
                                         </figure>
                                         <!--<span>7 pm to 11 pm</span>-->
                                     </div>
-                                                                <div class="verses">
+                                <div class="verses">
                                     <div class="team1">
                                                                                 <figure class="teamlogo-11">
                                             <img src="/lccl/uploads/teamlogos/teamlogo-mj3GyCYv46PgNPTePciZ.jpg">
@@ -197,13 +196,12 @@
                                 </div>
                             </div>
                             <!-- first match schedule ends here-->
-                                                        <!--</div>-->
+                        </div>
                         </div>
                         <div class="schedule-block">
                             <div class="schedule-header">
                                 <p>24 January 2016 , Sunday   </p>
-                                <p>Venue : JMP Lucknow
-</p>
+                                <p>Venue : JMP Lucknow</p>
                             </div>
                             <div class="schedule-body row nomrg-desk">
                                                             <!-- first match schedule starts here-->
